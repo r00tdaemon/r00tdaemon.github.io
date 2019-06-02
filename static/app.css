@@ -93,14 +93,12 @@ header ul a:hover {
 .content {
   padding: 40px;
   max-width: 1000px;
-  line-height: 22px;
 }
 
 .content.post {
   padding-top: 0px;
   padding-left: 0px;
   max-width: 1000px;
-  line-height: 22px;
 }
 .content h2 {
   margin-top: 0;
